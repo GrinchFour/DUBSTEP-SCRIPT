@@ -159,7 +159,7 @@ dubstep-script/
 > Закажи DUBSTEP SCRIPT сейчас и сделай свой VFX workflow непревзойдённым!  
 
 ---
-<div align="right">
+<div align="center">
 <sub>DUBSTEP SCRIPT v1.102.24 by constantchoice</sub>
 </div>
 
