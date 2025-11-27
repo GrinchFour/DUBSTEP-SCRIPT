@@ -160,7 +160,7 @@ dubstep-script/
 
 ---
 <div align="center">
-<sub>DUBSTEP SCRIPT v1.102.24 by constantchoice</sub>
+<sub>DUBSTEP SCRIPT v1.102.25 by constantchoice</sub>
 </div>
 
 ```
