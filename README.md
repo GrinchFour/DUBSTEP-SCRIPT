@@ -1,4 +1,5 @@
 <div align="center">
+<img src="big_gif_1.gif" alt="Tag GIF" />
   
 # DUBSTEP SCRIPT
 
